@@ -1,0 +1,21 @@
+.rootPane
+
+{
+
+  -fx-border-insets: 23;
+
+  -fx-background-insets: 23;
+
+  -fx-background-radius: 3;
+
+  -fx-border-radius: 3;
+
+  -fx-border-color: gray;
+
+  -fx-border-style: solid;
+
+  -fx-border-width: 1;
+
+  -fx-effect: dropshadow(three-pass-box, rgba(58, 163, 255, 1), 65, .4, 0, 0);
+
+}
